@@ -1,7 +1,7 @@
 ### Introduction
 
 The Odin Project is an open-source community dedicated to providing the best information sources to take you from zero to a full-stack developer.
-
+a
 In this unit, we'll learn about how the web works and start thinking about the basics of computer and web programming.
 
 Each of the following sections and lessons covers essential baseline knowledge.  Even if you have no intention of becoming a web developer, this material should help you gain a useful understanding of the moving parts involved in creating and serving content on the web.
